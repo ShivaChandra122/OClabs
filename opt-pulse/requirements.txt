@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+polars
+duckdb
+pydantic
+sqlalchemy
+mysql-connector-python
+openai
+langchain-openai
+pillow
+python-dotenv
